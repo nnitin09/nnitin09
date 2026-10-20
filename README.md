@@ -14,12 +14,12 @@
   <img src="https://streak-stats.demolab.com/?user=nnitin09&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nnitin09&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnitin09&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnitin09&theme=tokyo-night) -->
 
 
