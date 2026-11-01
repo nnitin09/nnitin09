@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnitin09&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nnitin09&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-stats-extended.vercel.app/api?username=nnitin09&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=nnitin09&theme=tokyonight" />
 </p>
 
